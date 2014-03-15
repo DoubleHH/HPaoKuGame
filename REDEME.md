@@ -2,7 +2,7 @@ HPaoKuDemo
 ================
 
 A running game demo, using cocos2d-x. A demo while my learning cocos2d-x.
-My project is from the video of (龙灵修) at www.youku.com. Thank you to him.
+My project is from the video of (龙灵修) at http://i.youku.com/u/UNTc4NzIzMTA0. Thank you to him.
 
 #License
 
